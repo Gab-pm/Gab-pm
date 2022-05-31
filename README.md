@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Gabriel and I am a hydraulics engineer with 10 years of experience in the digital, environmental and agricultural sectors.
+
+I currently work as project manager in OKP4
+
+
 <!--
 **Gab-pm/Gab-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
