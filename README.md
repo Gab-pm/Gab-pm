@@ -2,7 +2,7 @@
 
 My name is Gabriel and I am a hydraulics engineer with 10 years of experience in the digital, environmental and agricultural sectors.
 
-I currently work as project manager in OKP4
+I currently work as project manager in [OKP4](https://okp4.network/).
 
 
 <!--
