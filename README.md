@@ -1,3 +1,5 @@
+[banner](/banner.jpg)
+
 ### Hi there 👋
 
 My name is Gabriel and I am a hydraulics engineer with 10 years of experience in the digital, environmental and agricultural sectors.
