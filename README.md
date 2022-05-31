@@ -2,8 +2,11 @@
 
 My name is Gabriel and I am a hydraulics engineer with 10 years of experience in the digital, environmental and agricultural sectors.
 
-I currently work as project manager in [OKP4](https://okp4.network/).
+I currently work as project manager in [OKP4](https://okp4.network/) (:octocat: [repo](https://github.com/okp4/)).
 
+Find out more about me & feel free to connect with me here :  
+
+[![image](https://user-images.githubusercontent.com/92780073/142393015-7f73f6d0-d03d-48ad-94f2-082440436c3d.png)](https://www.linkedin.com/in/gabriel-mengin/)
 
 <!--
 **Gab-pm/Gab-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
